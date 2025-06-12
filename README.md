@@ -1,8 +1,11 @@
 🔍 Facebook ID Extractor
+
 Trích xuất Facebook Page ID và Group ID từ URL một cách đơn giản và nhanh chóng
 📖 Mô tả
+
 Facebook ID Extractor là một Python class nhỏ gọn giúp bạn trích xuất ID từ các trang Facebook và nhóm Facebook. Tool này hữu ích khi bạn cần lấy ID để sử dụng với Facebook API, phân tích dữ liệu, hoặc các mục đích phát triển ứng dụng.
 🎯 Mã này làm gì?
+
 
 Trích xuất Page ID: Lấy ID của các trang Facebook từ URL công khai
 Trích xuất Group ID: Lấy ID của các nhóm Facebook từ URL
